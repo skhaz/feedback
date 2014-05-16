@@ -9,10 +9,6 @@ about GitHub, our culture, work practices, technical aspects, or questions about
 me in general, send 'em this way... I'd be happy to shed some light on the
 issue.
 
-If you have any technical problems with Git or GitHub, you're still better off
-if you [ask GitHub Support directly](https://github.com/contact), since you'll
-end up getting a much faster response back that way.
-
 ---
 
 ### Ask a question
