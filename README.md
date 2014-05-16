@@ -1,13 +1,7 @@
 # skhaz/feedback
 
-This is a quick little ask-me-anything type of repository.
-
-I do a lot of talks and posts about
-[How GitHub Works](http://zachholman.com/posts/how-github-works/) because I love
-talking and discussing how software gets built. So If you have any questions
-about GitHub, our culture, work practices, technical aspects, or questions about
-me in general, send 'em this way... I'd be happy to shed some light on the
-issue.
+This is a quick little ask-me-anything type of repository. It's inspired by 
+[@holman's feedback repo](https://github.com/holman/feedback) and [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 
 ---
 
